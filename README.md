@@ -1,1 +1,1 @@
-# SecondTest  post = "/:year/:month/:day/:slug/
+/blog /post
